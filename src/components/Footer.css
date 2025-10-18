@@ -1,0 +1,29 @@
+
+.footer {
+
+  width: 100vw;
+  background-color:  #363636;
+  color: white;
+  padding: 1rem 2rem;
+  font-family: 'IBM Plex Serif', serif;
+  display: flex;
+  justify-content: flex-start; /* left align the content */
+}
+
+.footer-left {
+  display: flex;
+  gap: 1rem; /* space between text and icons */
+}
+
+.footer-icons a {
+  position: relative;
+  top: 18px; /* moves icons down */
+  color: white;
+  margin-left: 0.5rem; /* small spacing between icons */
+  transition: color 0.2s;
+}
+
+.footer-icons a:hover {
+
+  color: #00bcd4;
+}

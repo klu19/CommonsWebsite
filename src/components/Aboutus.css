@@ -1,0 +1,28 @@
+.blankbackground {
+  width: 100vw;       /* full viewport width */
+  height: 100vh;      /* full viewport height */
+  color:aliceblue
+}
+
+.aboutus {
+  background-color: #ffffff;
+  padding: 5rem 2rem;
+  text-align: center;
+  font-family: "IBM Plex Serif", serif;   
+}
+
+.aboutus .title {
+  font-size: 2.5rem;
+  color: #032f70;
+  padding-bottom: 0.5rem;
+  font-weight: 400;
+
+}
+
+.aboutus .body {
+  font-size: 1.2rem;
+  color: #333;
+  max-width: 400px;
+  margin: 0 auto;
+  line-height: 1.6;
+}

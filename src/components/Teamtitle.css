@@ -1,0 +1,13 @@
+.team {
+  position: relative;
+  background-color: #ffffff;
+  padding: 5rem 2rem; 
+  font-family: "IBM Plex Serif", serif;   
+}
+
+.team .title {
+  font-size: 2rem;
+  color: #032f70;
+  font-weight: 400;
+  margin: 0;   /* resets default h2 margin */
+}

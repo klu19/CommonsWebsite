@@ -1,0 +1,8 @@
+.team-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* centers all cards horizontally */
+  padding: 2rem;
+  background-color: #f7f7f7; /* optional background */
+  gap: 1rem;
+}
