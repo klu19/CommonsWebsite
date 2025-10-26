@@ -1,10 +1,17 @@
 import type { TeamMember } from "../types/types.ts";
 
-import personImg from "../assets/Kevin.jpg";
+import KevinImg from "../assets/Kevin.jpg";
+import RajImg from "../assets/raj.jpg";
+import AkashImg from "../assets/akash.jpg";
+import tristanImg from "../assets/tristan.jpg";
+import ReshubImg from "../assets/Reshub.jpg";
 
 export const teamMembers: TeamMember[] = [
-  { image: personImg, title: "Professor", name: "John Doe" },
-  { image: personImg, title: "Engineer", name: "Jane Smith" },
-  { image: personImg, title: "Researcher", name: "Alex Johnson" },
+  
+  { image: RajImg, name: "Raj Patel", title: "Managing Fellow" },
+  { image: AkashImg, name: "Akash Patel", title: "Managing Fellow" },
+  { image: tristanImg, name: "Tristan Faze", title: "Analyst Fellow" },
+  { image: ReshubImg, name: "Reshub", title: "Analyst Fellow" },
+  { image: KevinImg, name: "Kevin Lu", title: "Analyst Fellow" },
   // Add more members here
 ];

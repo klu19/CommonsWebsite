@@ -1,0 +1,15 @@
+.section-bar {
+  display: block; 
+  
+  /* FIX 1: REMOVE the conflicting width: 100%; */
+  /* width: 100%; <--- REMOVED */
+  
+  /* FIX 2: Set the desired width (70%) as the primary constraint */
+  width: 70%; /* Use width instead of max-width for simplicity here */
+  
+  /* The rest of the rules are correct */
+  height: 4px;
+  background-color: #032f70;
+  margin: 2rem auto; /* margin: auto correctly centers the 70% width bar */
+  border-radius: 0;
+}

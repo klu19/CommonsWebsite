@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="footer-left">
-        <p>© 2025 JHU Commons Group</p>
+        <p>© 2025 Commons Group</p>
         <div className="footer-icons">
           <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
             <FaInstagram size={24} />

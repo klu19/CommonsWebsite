@@ -1,7 +1,7 @@
 .team-section {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center; /* center the group of cards */
+  justify-content: left; /* center the group of cards */
   gap: 2rem;               /* space between cards */
-  padding: 0;              /* no extra padding to shift layout */
+  padding: 3rem;              /* no extra padding to shift layout */
 }

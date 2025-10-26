@@ -1,11 +1,11 @@
-.team {
+.project {
   position: relative;
   background-color: #ffffff;
   padding: 2rem 0rem 0rem 0rem; /* smaller gap */
   font-family: "IBM Plex Serif", serif;   
 }
 
-.team .title {
+.project .title {
   font-size: 2rem;
   color: #032f70;
   font-weight: 500;

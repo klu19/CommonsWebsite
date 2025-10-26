@@ -1,0 +1,8 @@
+.project-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 3rem;
+  background-color: #f9f9f9;
+  
+}
