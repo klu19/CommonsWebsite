@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Homepage from "./pages/Homepage"
 import Teampage from "./pages/Teampage"
-import Projectpage from "./pages/Projectpage"
+import Projectpage from "./pages/projectpage"
 import "./App.css";
 
 function App() {
