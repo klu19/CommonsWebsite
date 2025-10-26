@@ -1,5 +1,5 @@
 import React from "react";
-import "./SectionBar.css";
+import "./Sectionbar.css";
 
 const SectionBar: React.FC = () => {
   return <div className="section-bar"></div>;
