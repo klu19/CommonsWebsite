@@ -3,6 +3,7 @@ import Projects from "../components/Projects";
 import Sectionbar from "../components/Sectionbar"
 import CommunityTitle from "../components/CommunityTitle";
 import Community from "../components/Community";
+import "./Projectpage.css";
 
 function Projectpage() {
   return (
