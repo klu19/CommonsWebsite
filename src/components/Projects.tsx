@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Projectcard from "./Projectcard";
 import ProjectModal from "./ProjectModal";
 import { projects } from "../data/projectdata"; // <-- your existing data
-import "./project.css";
+import "./Project.css";
 
 const Projects: React.FC = () => {
   const [selected, setSelected] = useState<typeof projects[0] | null>(null);
