@@ -8,8 +8,8 @@ import ReshubImg from "../assets/Reshub.jpg";
 
 export const teamMembers: TeamMember[] = [
   
-  { image: RajImg, name: "Raj Patel", title: "Managing Fellow" },
-  { image: AkashImg, name: "Akash Patel", title: "Managing Fellow" },
+  { image: RajImg, name: "Raj Patel", title: "Managing Director" },
+  { image: AkashImg, name: "Akash Patel", title: "Executive Director" },
   { image: tristanImg, name: "Tristan Faze", title: "Analyst Fellow" },
   { image: ReshubImg, name: "Reshub", title: "Analyst Fellow" },
   { image: KevinImg, name: "Kevin Lu", title: "Analyst Fellow" },

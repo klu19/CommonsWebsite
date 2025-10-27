@@ -29,9 +29,9 @@
 /* Title above card */
 .projectcard-title {
   position: absolute;
-  top: -3.5rem;
+  top: -4.5rem;
   left: 1rem;
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   font-weight: 400;
   color: #032f70;
   z-index: 2;
